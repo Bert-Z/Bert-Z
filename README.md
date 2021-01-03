@@ -13,4 +13,4 @@
 - ⚡ Fun fact: ...
 -->
 
-[![Zero's github stats](https://github-readme-stats.vercel.app/api?username=Bert-Z&show_icons=true&theme=tokyonight)](https://github.com/Bert-Z/github-readme-stats)
+[![Zero's github stats](https://github-readme-stats.vercel.app/api?username=Bert-Z&show_icons=true&theme=tokyonight)](https://github.com/Bert-Z)
